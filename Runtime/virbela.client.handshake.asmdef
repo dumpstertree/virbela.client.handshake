@@ -1,0 +1,15 @@
+{
+    "name": "virbela.client.handshake",
+    "references": [
+        "GUID:843d8262101a04805addf21359713d37"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
